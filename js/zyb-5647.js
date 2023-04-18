@@ -24,4 +24,5 @@ nr3.forEach((itemDoaArray)=>{
 
 nr3.map((numero,key))=>{
      console.log(`Itens do array - ${numero}`);
+     
 }
